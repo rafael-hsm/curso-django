@@ -36,7 +36,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         {% for modulo in MODULOS %}
-                        <li><a class="dropdown-item" href="#">Python Birds</a></li>
+                        <li><a class="dropdown-item" href={{modulo.get_absolute_url}}>{{modulo.titulo}}</a></li>
                         <li><hr class="dropdown-divider"></li>
                         {% endfor %}
                     </ul>
