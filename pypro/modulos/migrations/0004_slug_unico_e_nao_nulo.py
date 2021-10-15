@@ -6,7 +6,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('modulos', '0003_alter_aula_vimeo_id'),
+        ('modulos', '0003_populando_slug'),
     ]
 
     operations = [
