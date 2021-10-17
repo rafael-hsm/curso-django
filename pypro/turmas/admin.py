@@ -1,5 +1,4 @@
 from django.contrib import admin
-from django.contrib.admin import TabularInline
 
 # Register your models here.
 
