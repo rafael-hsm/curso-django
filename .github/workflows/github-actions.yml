@@ -19,6 +19,8 @@ jobs:
           POSTGRES_USER: pythonpro
           POSTGRES_PASSWORD: pythonpro
           POSTGRES_DB: cursodjango
+        ports:
+          - 5432:5432
 
     steps:
       - uses: actions/checkout@v2
