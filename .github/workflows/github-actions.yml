@@ -8,16 +8,17 @@ on:
 
 jobs:
   build:
+    env:
+      DATABASE_URL: postgres://pythonpro:pythonpro@localhost:5432/cursodjango
     runs-on: ubuntu-latest
 
     services:
       postgres:
         image: postgres
         env:
-          POSTGRES_USER: postgres
-          POSTGRES_PASSWORD: postgres
-          POSTGRES_DB: postgres
-        ports: [ '5435:5432' ]
+          POSTGRES_USER: pythonpro
+          POSTGRES_PASSWORD: pythonpro
+          POSTGRES_DB: cursodjango
 
     steps:
       - uses: actions/checkout@v2
