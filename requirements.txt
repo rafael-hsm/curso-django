@@ -57,7 +57,7 @@ jmespath==0.10.0
     #   botocore
 matplotlib-inline==0.1.3
     # via ipython
-packaging==21.0
+packaging==21.2
     # via pytest
 parso==0.8.2
     # via jedi
