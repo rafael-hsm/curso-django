@@ -10,7 +10,7 @@ attrs==21.2.0
     # via pytest
 backcall==0.2.0
     # via ipython
-boto3==1.19.10
+boto3==1.19.11
     # via django-s3-folder-storage
 botocore==1.22.11
     # via
