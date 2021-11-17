@@ -64,7 +64,7 @@ iniconfig==1.1.1
     # via pytest
 ipython==7.29.0
     # via -r requirements.in
-jedi==0.18.0
+jedi==0.18.1
     # via ipython
 jmespath==0.10.0
     # via
