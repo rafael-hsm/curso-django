@@ -34,7 +34,7 @@ decorator==5.1.0
     # via ipython
 dj-database-url==0.5.0
     # via -r requirements.in
-django==3.2.9
+django==4.0.1
     # via
     #   -r requirements.in
     #   collectfast
