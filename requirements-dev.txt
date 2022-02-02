@@ -114,7 +114,7 @@ pytest-django==4.4.0
     #   -r requirements.in
 python-dateutil==2.8.2
     # via botocore
-python-decouple==3.5
+python-decouple==3.6
     # via -r requirements.in
 pytz==2021.3
     # via django
