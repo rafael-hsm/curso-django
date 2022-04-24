@@ -102,7 +102,7 @@ pygments==2.10.0
     # via ipython
 pyparsing==3.0.6
     # via packaging
-pytest==6.2.5
+pytest==7.1.2
     # via
     #   pytest-cov
     #   pytest-django
