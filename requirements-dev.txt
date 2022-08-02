@@ -54,7 +54,7 @@ django-storages==1.12.3
     # via
     #   collectfast
     #   django-s3-folder-storage
-flake8==4.0.1
+flake8==5.0.3
     # via -r requirements-dev.in
 gunicorn==20.1.0
     # via -r requirements.in
