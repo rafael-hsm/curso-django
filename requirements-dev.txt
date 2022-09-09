@@ -44,7 +44,7 @@ django==3.2.9
     #   model-mommy
 django-debug-toolbar==3.2.2
     # via -r requirements.in
-django-extensions==3.1.5
+django-extensions==3.2.1
     # via -r requirements.in
 django-ordered-model==3.4.3
     # via -r requirements.in
