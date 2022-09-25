@@ -42,7 +42,7 @@ django==3.2.9
     #   django-extensions
     #   django-storages
     #   model-mommy
-django-debug-toolbar==3.2.2
+django-debug-toolbar==3.7.0
     # via -r requirements.in
 django-extensions==3.1.5
     # via -r requirements.in
