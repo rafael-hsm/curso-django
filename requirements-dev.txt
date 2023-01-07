@@ -60,7 +60,7 @@ gunicorn==20.1.0
     # via -r requirements.in
 idna==3.3
     # via requests
-iniconfig==1.1.1
+iniconfig==2.0.0
     # via pytest
 ipython==7.30.0
     # via -r requirements.in
