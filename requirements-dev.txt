@@ -145,7 +145,7 @@ urllib3==1.26.7
     #   botocore
     #   requests
     #   sentry-sdk
-wcwidth==0.2.5
+wcwidth==0.2.6
     # via prompt-toolkit
 
 # The following packages are considered to be unsafe in a requirements file:
