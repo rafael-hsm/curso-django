@@ -73,7 +73,7 @@ idna==3.4
     # via requests
 iniconfig==2.0.0
     # via pytest
-ipython==8.8.0
+ipython==8.11.0
     # via -r requirements.in
 jedi==0.18.2
     # via ipython
