@@ -149,7 +149,7 @@ typing-extensions==4.4.0
     # via collectfast
 tzdata==2022.7
     # via django
-urllib3==1.26.14
+urllib3==1.26.15
     # via
     #   botocore
     #   requests
