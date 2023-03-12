@@ -61,7 +61,7 @@ django-storages==1.13.2
     # via
     #   collectfast
     #   django-s3-folder-storage
-exceptiongroup==1.1.0
+exceptiongroup==1.1.1
     # via pytest
 executing==1.2.0
     # via stack-data
