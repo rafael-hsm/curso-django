@@ -105,7 +105,7 @@ pyflakes==3.0.1
     # via flake8
 pygments==2.15.0
     # via ipython
-pytest==7.3.0
+pytest==7.3.1
     # via
     #   pytest-cov
     #   pytest-django
