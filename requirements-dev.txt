@@ -36,7 +36,7 @@ coverage[toml]==7.2.3
     #   pytest-cov
 decorator==5.1.1
     # via ipython
-dj-database-url==1.3.0
+dj-database-url==2.0.0
     # via -r requirements.in
 django==4.2
     # via
